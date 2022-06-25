@@ -4,8 +4,9 @@ About The Project :-
 
 Built With :- 
 - Javascript
-- NodeJS fs, os module
+- NodeJS fs, path module
 
 How to run?
 - node main.js commandName provideFolderPath
 - ex:- node main.js organize C:\Users\Lenovo\Downloads
+- ex:- node main.js help
