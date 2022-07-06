@@ -7,6 +7,6 @@ Built With :-
 - NodeJS fs, path module
 
 How to run?
-- node main.js commandName provideFolderPath
+- open terminal and write command 'node main.js commandName provideFolderPath'
 - ex:- node main.js organize C:\Users\Lenovo\Downloads
 - ex:- node main.js help
